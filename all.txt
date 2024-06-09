@@ -2,12 +2,14 @@ adcb.com
 adib.ae
 agri-bank.com
 ahlibank.com.qa
+ahlibank.om
 ahliunited.com
 ajmanbnk.ae
 al-masraf.ae
 albaraka.bh
 alhilalbank.ae
 alislami.ae
+alizzislamic.com
 alrayan.com
 alsalambahrain.com
 arabbank.com.qa
@@ -15,9 +17,13 @@ arabbank.jo
 ba24.ir
 bank-day.ir
 bank-maskan.ir
+bankdhofar.com
 bankfab.com
 bankino.digital
 bankmellat.ir
+bankmuscat.com
+banknizwa.om
+bankofbaroda.com
 bankofsharjah.com
 banksaderat.ae
 banksepah.ir
@@ -36,6 +42,7 @@ cbb.gov.bh
 cbd.ae
 cbi.ir
 cbiuae.com
+cbo.gov.om
 cbq.qa
 centralbank.ae
 cid.ir
@@ -53,6 +60,7 @@ eskanbank.com
 gib.com
 hbtf.bh
 hsbc.ae
+hsbc.co.om
 hsbc.com.bh
 hsbc.com.qa
 investbank.ae
@@ -70,9 +78,13 @@ middleeastbank.ir
 nbbonline.com
 nbf.ae
 nbk.com
+nbo.om
 nbq.ae
 network.ae
 noorbank.ir
+odb.com.om
+ohb.co.om
+oman-arabbank.com
 parsian-bank.com
 postbank.ir
 qa.dohabank.com
@@ -90,6 +102,8 @@ sbank.ir
 shahr-bank.ir
 sib.ae
 sinabank.ir
+soharinternational.com
+standardchartered.com
 tejaratbank.ir
 tourism-bank.com
 tourismbank.ir
