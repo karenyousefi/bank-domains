@@ -8,7 +8,7 @@ This repository contains lists of bank domains for various countries, including 
 - [UAE (ae)](ae/list.txt) - Contains bank domains for UAE.
 - [Iran (ir)](ir/list.txt) - Contains bank domains for Iran.
 - [Bahrain (bh)](bh/list.txt) - Contains bank domains for Bahrain.
-- [Oman (om)](om/list.txt) - Contains bank domains for Bahrain.
+- [Oman (om)](om/list.txt) - Contains bank domains for Oman.
 - [All domains (all.txt)](all.txt) - A consolidated list of all bank domains.
 
 ## How to Contribute
