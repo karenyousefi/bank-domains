@@ -1,6 +1,6 @@
 # Bank Domains
 
-This repository contains lists of bank domains for various countries, including Qatar, UAE, Iran, Bahrain, Oman, and Kuwait. The domains are organized into separate directories, and there is also a consolidated list.
+This repository contains lists of bank domains for various countries, including Qatar, UAE, Iran, Bahrain, Oman, Kuwait, and Saudi Arabia. The domains are organized into separate directories, and there is also a consolidated list.
 
 ## List
 
@@ -10,6 +10,7 @@ This repository contains lists of bank domains for various countries, including 
 - [Bahrain (bh)](bh/list.txt) - Contains bank domains for Bahrain.
 - [Oman (om)](om/list.txt) - Contains bank domains for Oman.
 - [Kuwait (kw)](kw/list.txt) - Contains bank domains for Kuwait.
+- [Saudi Arabia (sa)](sa/list.txt) - Contains bank domains for Saudi Arabia.
 - [All domains (all.txt)](all.txt) - A consolidated list of all bank domains.
 
 ## How to Contribute
