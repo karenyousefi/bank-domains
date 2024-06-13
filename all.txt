@@ -1,5 +1,9 @@
+aafaq.ae
+aaib.com
+abk.eahli.com
 adcb.com
 adib.ae
+ae.visamiddleeast.com
 agri-bank.com
 ahlibank.com.qa
 ahlibank.om
@@ -16,11 +20,14 @@ alhilalbank.ae
 alinma.com
 alislami.ae
 alizzislamic.com
+alkhaliji.ae
+almasraf.ae
 alrajhibank.com.kw
 alrajhibank.com.sa
 alrayan.com
 alsalambahrain.com
 anb.com.sa
+arabbank.ae
 arabbank.com.qa
 arabbank.jo
 ba24.ir
@@ -36,10 +43,13 @@ bankino.digital
 bankmellat.ir
 bankmuscat.com
 banknizwa.om
+bankofbaroda-uae.ae
 bankofbaroda.com
+bankofbarodauae.ae
 bankofsharjah.com
 banksaderat.ae
 banksepah.ir
+barclays.ae
 bbkonline.com
 bdb-bh.com
 bim.ir
@@ -47,9 +57,12 @@ bisb.com
 bki.ir
 blubank.com
 bmi.ae
+bmi.co.ae
 bmi.ir
 bnpparibas.com
+bokintl.ae
 bpi.ir
+bsi.co.ae
 bsi.ir
 burgan.com
 business.hsbc.com.bh
@@ -64,8 +77,11 @@ cbq.qa
 centralbank.ae
 cid.ir
 citi.com
+citibank.ae
 citigroup.com
 city-bank.ir
+dib.ae
+dohabank.ae
 dohabank.com
 dohabank.com.kw
 dukhanbank.com
@@ -74,6 +90,7 @@ eahli.com
 edbi.ir
 eibank.com
 EihBank.com
+elnilein.ae
 emiratesnbd.com
 emiratesnbd.com.sa
 emirstesislamicbank.ae
@@ -99,6 +116,7 @@ kib.com.kw
 mashreqbank.com
 mastercard.ae
 mbank.ae
+mea.bnpparibas.com
 melalbank.ir
 middleeastbank.ir
 nbbonline.com
@@ -107,6 +125,7 @@ nbk.com
 nbo.om
 nbq.ae
 network.ae
+nileinuae.com
 noorbank.ir
 odb.com.om
 ohb.co.om
@@ -114,6 +133,7 @@ oman-arabbank.com
 parsian-bank.com
 parsian-bank.ir
 postbank.ir
+ppc.magnati.com
 qa.dohabank.com
 qcb.gov.qa
 qdb.qa
@@ -129,6 +149,7 @@ sab.com
 sabb.com.sa
 saib.com.sa
 sama.gov.sa
+samba.ae
 samba.com.sa
 sb24.com
 sb24.ir
@@ -145,5 +166,7 @@ tourism-bank.com
 tourismbank.ir
 ttbank.ir
 uab.ae
+visamiddleeast.com
 warbabank.com
+wio.io
 zand.ae
