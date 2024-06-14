@@ -28,10 +28,12 @@ alrayan.com
 alsalambahrain.com
 anb.com.sa
 arabbank.ae
+arabbank.bh
 arabbank.com.qa
 arabbank.jo
 ba24.ir
 baj.com.sa
+bank-abc.com
 bank-day.ir
 bank-maskan.ir
 bankalbilad.com
@@ -166,6 +168,7 @@ tourism-bank.com
 tourismbank.ir
 ttbank.ir
 uab.ae
+ugbbh.com
 visamiddleeast.com
 warbabank.com
 wio.io
