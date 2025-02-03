@@ -1,6 +1,7 @@
 ahlibank.com.qa
 alrayan.com
 arabbank.com.qa
+bsi.com.qa
 cbq.qa
 dohabank.com
 dukhanbank.com
