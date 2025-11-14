@@ -54,6 +54,8 @@ banksepah.ir
 barclays.ae
 bbkonline.com
 bdb-bh.com
+bigbank.ee
+bigbank.eu
 bim.ir
 bisb.com
 bki.ir
@@ -79,10 +81,12 @@ cbo.gov.om
 cbq.qa
 centralbank.ae
 cid.ir
+citadele.ee
 citi.com
 citibank.ae
 citigroup.com
 city-bank.ir
+cooppank.ee
 dib.ae
 dohabank.ae
 dohabank.com
@@ -107,6 +111,7 @@ hsbc.com.bh
 hsbc.com.kw
 hsbc.com.qa
 ibkuwt.com
+inbank.ee
 investbank.ae
 ithmaarbank.com
 izbank.ir
@@ -116,6 +121,8 @@ kfh.bh
 kfh.com
 khaleeji.bank
 kib.com.kw
+lhv.ee
+luminor.ee
 mashreqbank.com
 mastercard.ae
 mbank.ae
@@ -133,6 +140,7 @@ noorbank.ir
 odb.com.om
 ohb.co.om
 oman-arabbank.com
+opbank.ee
 parsian-bank.com
 parsian-bank.ir
 postbank.ir
@@ -157,6 +165,7 @@ samba.com.sa
 sb24.com
 sb24.ir
 sbank.ir
+seb.ee
 shahr-bank.ir
 shaparak.ir
 sib.ae
@@ -164,6 +173,8 @@ sinabank.ir
 soharinternational.com
 standardchartered.com
 stcpay.com.sa
+swedbank.ae
+swedbank.ee
 tejaratbank.ir
 tourism-bank.com
 tourismbank.ir
