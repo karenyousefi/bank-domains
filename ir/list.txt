@@ -1,3 +1,4 @@
+abankapp.ir
 agri-bank.com
 ba24.ir
 bank-day.ir
@@ -15,6 +16,7 @@ caspianci.ir
 cbi.ir
 cid.ir
 city-bank.ir
+devpod.ir
 edbi.ir
 EihBank.com
 enbank.ir
@@ -23,9 +25,12 @@ karafarinbank.com
 karafarinbank.ir
 melalbank.ir
 middleeastbank.ir
+mobillet.ir
 noorbank.ir
 parsian-bank.com
 parsian-bank.ir
+pep.co.ir
+pod.ir
 postbank.ir
 qmb.ir
 Refah-bank.ir
@@ -40,3 +45,4 @@ tejaratbank.ir
 tourism-bank.com
 tourismbank.ir
 ttbank.ir
+wepod.ir
