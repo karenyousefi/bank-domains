@@ -1,5 +1,6 @@
 aafaq.ae
 aaib.com
+abankapp.ir
 abk.eahli.com
 adcb.com
 adib.ae
@@ -87,6 +88,7 @@ citibank.ae
 citigroup.com
 city-bank.ir
 cooppank.ee
+devpod.ir
 dib.ae
 dohabank.ae
 dohabank.com
@@ -129,6 +131,7 @@ mbank.ae
 mea.bnpparibas.com
 melalbank.ir
 middleeastbank.ir
+mobillet.ir
 nbbonline.com
 nbf.ae
 nbk.com
@@ -143,6 +146,8 @@ oman-arabbank.com
 opbank.ee
 parsian-bank.com
 parsian-bank.ir
+pep.co.ir
+pod.ir
 postbank.ir
 ppc.magnati.com
 qa.dohabank.com
@@ -183,5 +188,6 @@ uab.ae
 ugbbh.com
 visamiddleeast.com
 warbabank.com
+wepod.ir
 wio.io
 zand.ae
