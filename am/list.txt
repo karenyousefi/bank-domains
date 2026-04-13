@@ -10,6 +10,7 @@ ashib.am
 bank.am
 byblosbank.am
 byblosbankarmenia.am
+cba.am
 conversebank.am
 evoca.am
 evocabank.am
